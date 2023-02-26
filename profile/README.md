@@ -12,7 +12,3 @@ Elektroniczne wersje dwóch przydatnych kart z komendami GIT
 W przypadku braku dostępu do modułu [Discussions](https://github.com/orgs/java-classroom-wit/discussions) należy zgłosić się na Teamsach lub na zajęciach w celu poprawnego przypisania do grupy zajęciowej. 
 
 
-## Moduł Discussions
-Moduł dostępny jest tylko dla bieżącego semestru. 
-Archiwalne repozytoria dla pozostałych grup 
-* [ROK 2022/2023 semestr zimowy](https://github.com/java-classroom-wit/general-discussions-zima-2022/discussions)
